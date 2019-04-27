@@ -1,6 +1,6 @@
 # Team Nusantara Devs Webpage
 
-Link: NusantaraDevs.github.io
+Link: https://nusantaradevs.github.io/
 
 ## Credits:
 
