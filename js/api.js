@@ -1,5 +1,5 @@
 function teleprofilepic(pic, num){
-	let api = 'https://api.allorigins.win/raw?url=http://142.93.233.141:33507/api/getprofile?profile='+pic;
+	let api = 'https://api.allorigins.win/raw?url=http://107.172.29.149:33507/api/getprofile?profile='+pic;
 	let request = new XMLHttpRequest();
 	request.open('GET', api);
 	request.onload = function(){
@@ -11,7 +11,7 @@ function teleprofilepic(pic, num){
 };
 
 function gitprofilepic(pic, num){
-	let api = 'https://api.allorigins.win/raw?url=http://142.93.233.141:33507/api/gitprofile?profile='+pic;
+	let api = 'https://api.allorigins.win/raw?url=http://107.172.29.149:33507/api/gitprofile?profile='+pic;
 	let request = new XMLHttpRequest();
 	request.open('GET', api);
 	request.onload = function(){
